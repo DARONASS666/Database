@@ -1,4 +1,4 @@
-# database
+# Database
 a custom database made in C++ to mimic SQL.
 Implemented a templated version of B Tree and B+ Tree with relevant utility functions in separate .cpp and .h files.
 Implemented map and Multimap wrappers that use the B+ Tree class.
